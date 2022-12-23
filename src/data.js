@@ -1,3 +1,22 @@
+// accuracyData = [[],[]]
+
+// let accuracyDataPlot = []
+
+// for(let i=0;i<accuracyData.length; i++){
+//     let obj={}
+//     obj.name = i+1;
+//     obj.amt = accuracyData[i][0]
+//     obj.pv = accuracyData[i][0]
+//     obj.uv = i+1
+//     accuracyDataPlot.push(obj)
+// }
+
+
+// [{
+    
+// }]
+
+
 const data = [
     {
         name: 'Page A',

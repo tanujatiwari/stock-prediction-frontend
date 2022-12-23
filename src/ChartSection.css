@@ -34,3 +34,7 @@ div.recharts-responsive-container {
 		padding: 1.7rem 0;
 	}	
 }
+
+circle.recharts-dot.recharts-line-dot{
+	display: none !important;
+}
